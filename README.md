@@ -1,8 +1,8 @@
 # Hi! I'm Fellype.
 
-:computer: Project Manager and Software Engineer <br> 
-:zap: LiteMe <br>
-:house: Brazil <br>
+- :computer: Project Manager and Software Engineer <br> 
+- :zap: LiteMe <br>
+- :house: Brazil <br>
 
 
 ## 🌐 Socials:
